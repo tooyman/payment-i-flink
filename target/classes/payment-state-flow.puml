@@ -1,8 +1,0 @@
-@startuml
-
-[*] --> paymentController
-paymentController-->state1
-
-
-
-@enduml
